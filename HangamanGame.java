@@ -60,7 +60,7 @@ public class HangamanGame {
 	            System.out.println("\nGame over! The word was: " + word);
 	        }
 
-	        scanner.close();
+	
 	    }
 	}
 
